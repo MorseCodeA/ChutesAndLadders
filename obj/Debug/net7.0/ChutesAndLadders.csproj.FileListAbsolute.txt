@@ -1,0 +1,15 @@
+C:\Users\bishoal1\Desktop\ChutesAndLadders\bin\Debug\net7.0\ChutesAndLadders.exe
+C:\Users\bishoal1\Desktop\ChutesAndLadders\bin\Debug\net7.0\ChutesAndLadders.deps.json
+C:\Users\bishoal1\Desktop\ChutesAndLadders\bin\Debug\net7.0\ChutesAndLadders.runtimeconfig.json
+C:\Users\bishoal1\Desktop\ChutesAndLadders\bin\Debug\net7.0\ChutesAndLadders.dll
+C:\Users\bishoal1\Desktop\ChutesAndLadders\bin\Debug\net7.0\ChutesAndLadders.pdb
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.csproj.AssemblyReference.cache
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.AssemblyInfoInputs.cache
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.AssemblyInfo.cs
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.dll
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\refint\ChutesAndLadders.dll
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.pdb
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ChutesAndLadders.genruntimeconfig.cache
+C:\Users\bishoal1\Desktop\ChutesAndLadders\obj\Debug\net7.0\ref\ChutesAndLadders.dll
